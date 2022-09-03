@@ -10,4 +10,4 @@ I am a 17 year old boy who is learning to program. I hope to learn a lot...
 
 [![](https://img.shields.io/badge/-@wolsdev-%23181717?style=flat-square&logo=github)](https://github.com/wolsdev)
 [![](https://img.shields.io/badge/-@wolsdev-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/wolsdev)
-[![](https://img.shields.io/badge/-Facundo%20Grispi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/facundo-grispi-11b094238/)](https://www.linkedin.com/in/facundo-grispi-11b094238)
+[![](https://img.shields.io/badge/-Facundo%20Grispi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/facundo-grispi-11b094238/)](www.linkedin.com/in/facundo-grispi)
